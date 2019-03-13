@@ -1,3 +1,7 @@
 body {
   background: #ffffff;
 }
+
+.my-container {
+  width: 100%;
+}
